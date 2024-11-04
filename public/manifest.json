@@ -16,9 +16,7 @@
             "128": "logo128.png"
         }
     },
-    "permissions": [
-        "storage",
-        "tabs"
-    ],
-    "homepage_url": "https://timeless.co"
+    "permissions": ["scripting", "activeTab", "tabs"],
+    "host_permissions": ["<all_urls>"],
+    "homepage_url": "https://jp.mercari.com/"
 }

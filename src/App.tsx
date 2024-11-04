@@ -1,11 +1,11 @@
 import Header from "./components/header";
-import Hello from "./components/hello";
+import Content from "./components/content";
 
 function App() {
   return (
     <div className="w-96">
       <Header />
-      <Hello />
+      <Content />
     </div>
   );
 }
